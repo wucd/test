@@ -1,0 +1,1 @@
+g++ -o "/home/wcd/projects/ConsoleApplication1/bin/x64/Debug/ConsoleApplication1.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/wcd/projects/ConsoleApplication1/obj/x64/Debug/CxxTag.o /home/wcd/projects/ConsoleApplication1/obj/x64/Debug/main.o /home/wcd/projects/ConsoleApplication1/../Project1/bin/x64/Debug/libProject1.a

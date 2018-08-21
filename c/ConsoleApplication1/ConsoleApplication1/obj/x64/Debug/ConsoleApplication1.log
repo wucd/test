@@ -1,0 +1,14 @@
+﻿  Validating architecture
+  Validating sources
+  Copying sources remotely to '127.0.0.1'
+  Starting remote build
+  Compiling sources:
+  CxxTag.cpp
+  main.cpp
+D:\OneDrive\code\git\c\ConsoleApplication1\ConsoleApplication1\main.cpp(14,6): warning : unused variable 'l' [-Wunused-variable]
+D:\OneDrive\code\git\c\ConsoleApplication1\ConsoleApplication1\main.cpp(14,6): warning :   int l = uv_loop_init(&t);
+D:\OneDrive\code\git\c\ConsoleApplication1\ConsoleApplication1\main.cpp(14,6): warning :       ^
+  Linking objects
+D:\OneDrive\code\git\c\ConsoleApplication1\ConsoleApplication1\obj\x64\Debug\main.o : error : In function `main':
+D:\OneDrive\code\git\c\ConsoleApplication1\ConsoleApplication1\main.cpp(14): error : undefined reference to `uv_loop_init'
+collect2 : error : ld returned 1 exit status

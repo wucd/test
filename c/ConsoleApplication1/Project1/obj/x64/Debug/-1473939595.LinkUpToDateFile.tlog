@@ -1,0 +1,1 @@
+ar -rsc  "/home/wcd/projects/Project1/bin/x64/Debug/libProject1.a" /home/wcd/projects/Project1/obj/x64/Debug/main.o

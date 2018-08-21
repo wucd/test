@@ -1,0 +1,8 @@
+﻿  Validating architecture
+  Validating sources
+  Copying sources remotely to '127.0.0.1'
+  Starting remote build
+  Compiling sources:
+  main.cpp
+  Archiving objects
+  Project1.vcxproj -> D:\OneDrive\code\git\c\ConsoleApplication1\Project1\bin\x64\Debug\libProject1.a
